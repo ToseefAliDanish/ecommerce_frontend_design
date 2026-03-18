@@ -94,12 +94,6 @@ ecommerce-frontend-design/
 
 ---
 
-## 📅 Deadline
-
-🗓️ Submission Date: **3rd April 2026**
-
----
-
 ## 🙌 Acknowledgment
 
 This project was completed as part of the **DevelopersHub Internship Program**, focusing on building practical frontend development skills.
