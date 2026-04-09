@@ -80,11 +80,7 @@ ecommerce-frontend-design/
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your project here for better presentation)
-
----
 
 ## ⚡ How to Run
 
